@@ -4,4 +4,5 @@ com\inetBanking\utilities\Reporting.class
 com\inetBanking\utilities\XLUtils.class
 com\inetBanking\pageObjects\LoginPage.class
 com\inetBanking\testCases\BaseClass.class
+com\inetBanking\utilities\DowloadFile.class
 com\inetBanking\testCases\TC_LoginDDD_002.class
